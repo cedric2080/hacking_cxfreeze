@@ -1,0 +1,16 @@
+**.pyc
+**.sqlite3
+**.log
+**/__pychache__/
+**.rdb
+.idea/
+.vscode/
+/logs/
+/build/
+/dist/
+*.egg-info/
+.eggs
+
+/env/
+/library/
+/build/
